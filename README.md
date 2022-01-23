@@ -1,1 +1,10 @@
 # 3D-Models
+
+This repository is dedicated to all my home-brewed very experimental and functional 3D models. Feel free to use
+them how you see fit. 
+
+- The alignment tools were 3D printed for different thread standards to help me with the Nikon inverted microscope 
+vertical beam alignment. 
+
+- The AOM adapter was designed to interface Gooch and Housego AOM with a generic 
+thorlab rotational stage. 
